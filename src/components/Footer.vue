@@ -7,7 +7,7 @@
       <div class="flex flex-row gap-8">
          <a href="https://github.com/D4W1D000X" target="_blank"><img class="h-12 w-12" src="../assets/github.svg" alt="Logo"></a>
          <a href="https://www.facebook.com/profile.php?id=100006052727687" target="_blank"><img class="h-12 w-12" src="../assets/facebook.svg" alt="Logo"></a>
-         <a href="" target="_blank"><img class="h-12 w-12" src="../assets/MakeWeb_Logo.svg" alt="Logo"></a>
+         <a href="https://makeweb-portfolio.vercel.app/" target="_blank"><img class="h-12 w-12" src="../assets/MakeWeb_Logo.svg" alt="Logo"></a>
 
       </div>
    </div>
